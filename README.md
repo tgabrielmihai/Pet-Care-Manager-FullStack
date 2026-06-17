@@ -98,7 +98,7 @@ Communication between frontend and backend is performed using REST API requests 
 
 ## Academic Context
 
-This project was developed for the Advanced Database Systems course and focuses on combining modern web technologies with advanced database programming concepts.
+This project was developed for the "Database systems" course and focuses on combining modern web technologies with advanced database programming concepts.
 
 ---
 
@@ -202,4 +202,4 @@ Comunicarea dintre frontend și backend este realizată prin request-uri REST fo
 
 ## Context Academic
 
-Acest proiect a fost realizat în cadrul disciplinei Sisteme Avansate de Baze de Date și pune accent pe integrarea dezvoltării web moderne cu concepte avansate de programare a bazelor de date.
+Acest proiect a fost realizat în cadrul disciplinei "Utilizarea bazelor de date" și pune accent pe integrarea dezvoltării web moderne cu concepte avansate de programare a bazelor de date.
