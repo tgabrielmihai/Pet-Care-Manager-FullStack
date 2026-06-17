@@ -101,7 +101,8 @@ Communication between frontend and backend is performed using REST API requests 
 This project was developed for the Advanced Database Systems course and focuses on combining modern web technologies with advanced database programming concepts.
 
 ---
-# Pet Care Manager
+
+# Pet Care Manager (RO)
 
 ## Descriere
 
